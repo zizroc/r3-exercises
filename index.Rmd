@@ -1,6 +1,6 @@
 ---
 title: "R3 Exercises"
-author: "Ben Best"
+author: "Marcus Thomson"
 date: "6/14/2021"
 output: html_document
 ---
